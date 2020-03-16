@@ -79,3 +79,121 @@ log.php
 simple_cmd.php
 zacosmall.php
 weevely.php
+529.php
+accept_language.php
+AK-74 Security Team Web Shell Beta Version.php
+alfa3.php
+alfav3.0.1.php
+Andela 1C3 v3 (Private Release 2017).php
+andela.php
+anonexploitershell.php
+Antichat Shell. Modified by Go0o.php
+Antichat Shell.php
+Antichat_Shell_v1.3.php
+autoroot.php
+Ayyildiz Tim -AYT- Shell v 2.1 Biz.php
+Ayyildiz Tim Shell (Private Shell 2017).php
+aZRaiLPhp v1.0.php
+b374k-mini-shell-php.php
+b374kv2.1.php
+b374v2.8-b374k.php
+bayz21-priv-shell-v1.php
+bayz21-priv-shell-v2.php
+bayz21-priv-shell-v3.php
+berandal-owlsquad.php
+bloodsecv4.php
+bypass403.php
+bypass529.php
+by.php
+c0derz shell [csh] v. 0.1.1 release.php
+C99madShell v. 2.0 madnet edition.php
+CasuS 1.5.php
+Con7ext-Shell-V.2-l o l.php
+configkillerionkros.php
+cpanel.php
+CrystalShell v.1.php
+cw.php
+Cyber Shell (v 1.0).php
+dC3 Security Crew Shell PRiV.php
+Dive Shell 1.0 - Emperor Hacking Team.php
+DTool Pro.php
+Engineers Security (Private PHP Shell 2017).php
+fatal.php
+ftpsearch.php
+g00nshell-v1.3.php
+Gamma Web Shell.php
+GFS_web-shell_ver_3.1.7_-_PRiV8.php
+GRP WebShell 2.0 release build 2018 (C)2006,Great.php
+G-Security-Webshell.php
+h4ntu shell [powered by tsoi].php
+hector-uploader.php
+hiddens shell v1.php
+indoxploit-mass-defacer.php
+IndoXploit.php
+jav-shellv1.1-maqlo.php
+jca.php
+k2ll33d.php
+KAdot Universal Shell v0.1.6.php
+kral.php
+kuda.php
+lamashell.php
+lifkaS.php
+Liz0ziM Private Safe Mode Command Execuriton Bypass Exploit.php
+Loaderz WEB Shell.php
+load_shell.php
+lolipop.php
+lostDC.php
+Macker's Private PHPShell.php
+matamu.php
+megabor.php
+mini.php
+Moroccan Spamers Ma-EditioN By GhOsT.php
+myshell.php
+Mysql interface v1.0.php
+mysql_tool.php
+MySQL Web Interface Version 0.8.php
+NGH.php
+nobody-uploader.php
+Non-alphanumeric.php
+nshell.php
+NTDaddy v1.9.php
+obfuscated-punknopass.php
+php-backdoor.php
+php-include-w-shell.php
+pHpINJ.php
+php-reverse-shell.php
+PHP Shell.php
+PhpSpy Ver 2006.php
+PHVayv.php
+Pinoy LULZSec (Private Shell 2017).php
+Predator.php
+punkholic.php
+punk-nopass.php
+pws.php
+qsd-php-backdoor.php
+rootshell.php
+Rootshell.v.1.0.php
+ru24_post_sh.php
+s72 Shell v1.1 Coding.php
+Safe0ver Shell -Safe Mod Bypass By Evilc0der.php
+Safe_Mode Bypass PHP 4.4.2 and PHP 5.1.2.php
+securityghost-priv-Zero5.php
+SHOR7CUT Shell (BETA KILLER).php
+SimAttacker - Vrsion 1.0.0 - priv8 4 My friend.php
+Simple_PHP_backdoor_by_DK.php
+simple-php-backdoor.php
+simple-upload.php
+simple-uploadv2.php
+SimShell 1.0 - Simorgh Security MGZ.php
+Sincap 1.0.php
+small.php
+Small Web Shell by ZaCo.php
+smevk.php
+Stupidc0de Shell (2017).php
+sym.php
+WHO AM I - MZRP105 (Private PHP Shell).php
+Wordpress Mass Defacer (FUD 2017).php
+wso2.7.php
+wso2.8.5.php
+wso2.8.php
+wso-latest.php
